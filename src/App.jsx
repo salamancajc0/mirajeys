@@ -20,15 +20,15 @@ export default function App() {
   const timeline = [
     {
       title: "The Day We Met 💖",
-      text: "The moment everything started becoming special.",
+      text: "The moment everything started becoming special. Dito ko naramdaman na mahalin ako ng isang babaeng marunong mag alaga, umintindi at magpahalaga sa taong minamahal niya. ",
     },
     {
       title: "Our First Date 🌹",
-      text: "Nervous smiles, laughs, and unforgettable memories.",
+      text: "Nervous smiles, laughs, and unforgettable memories. Dito mas lalo mong pinaramdam sakin yung pagmamahal mo-sa mga ngiti at sa presensya mo na nagbibigay buhay sa araw-araw ko.",
     },
     {
       title: "Becoming Official 💍",
-      text: "The best decision I ever made.",
+      text: "The best wish I ever had. Dito ko nakuha yung matagal kong hinihiling at pinagdarasal kay GOD-yung babaeng masipag, marunong umintindi, at higit sa lahat, sobrang sexy at maganda. Kaya sobrang thankful ako kasi ikaw yun.",
     },
     {
       title: "17th Monthsary ❤️",
@@ -211,7 +211,7 @@ export default function App() {
 
           <div className="space-y-6 text-lg text-rose-100 leading-relaxed">
             <p>
-              Hi bebiiikowww, thank you for being the best part of my life.
+              Hi bebiiikowwww, thank you for being the best part of my life.
             </p>
 
             <p>
@@ -219,13 +219,32 @@ export default function App() {
             </p>
 
             <p>
-              I appreciate every laugh, every conversation,
-              every little thing you do for me.
+              I appreciate every laugh, every conversation, every little thing you do for me.
             </p>
 
             <p>
-              No matter what happens,
-              I will always choose you over and over again.
+              No matter what happens, I will always choose you over and over again.
+            </p>
+
+            <p>
+              And I’m sorry if sometimes nagiging tampuhin ako or nahihirapan akong intindihin kapo.
+              Hindi ko man lagi napapakita nang maayos, pero mahal na mahal kita at sobrang thankful ako sayo sa lahat ng bagay.
+            </p>
+
+            <p>
+              Thank you for staying, kahit maraming problema ang dumadaan sa atin.
+              Thank you kasi you always choose to stay and be patient with me everytime.
+            </p>
+
+            <p>
+              I’m really grateful na kahit hindi ako perfect, tinatanggap mo ako.
+              I promise I’ll try my best to understand you more, to be more patient,
+              and to be better for you.
+            </p>
+
+            <p>
+              I will always choose you, even on the hard days,
+              even when things aren’t easy.
             </p>
 
             <p className="text-pink-200 font-bold text-2xl animate-pulse">
